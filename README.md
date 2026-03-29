@@ -12,7 +12,7 @@ Most of what I make lives in the React/Next.js ecosystem with TypeScript and Tai
 
 **[fivem-bundler](https://github.com/Capper-Dev/fivem-bundler)** — A build-time compiler for FiveM Lua resources. Resolves `require()` calls via AST analysis and outputs single-file bundles. Available on npm.
 
-**[CFXFinder](https://github.com/Capper-Dev/cfxfinder)** — Server browser for the FiveM community.
+**[CFXFinder](https://cfxfinder.casper.dev)** — Resolve any FiveM join code to its connection endpoint, including private servers.
 
 ---
 
